@@ -1,0 +1,7 @@
+D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\bin\Debug\InterviewLevelsConsoleApp.exe.config
+D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\bin\Debug\InterviewLevelsConsoleApp.exe
+D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\bin\Debug\InterviewLevelsConsoleApp.pdb
+D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.exe
+D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.pdb
+D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.csprojAssemblyReference.cache
