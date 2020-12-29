@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewLevelsConsoleApp
+namespace InterviewLevelsConsoleApp.Models
 {
-    public class InterviewType:Common
+   public class Interview : Common
     {
-        
     }
 }

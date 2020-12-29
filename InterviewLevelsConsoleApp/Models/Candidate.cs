@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewLevelsConsoleApp
+namespace InterviewLevelsConsoleApp.Models
 {
     public class Candidate : Common
     {   public string Surname { get; set; }

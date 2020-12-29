@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewLevelsConsoleApp
+namespace InterviewLevelsConsoleApp.Models
 {
-    public enum InterviewLevelEnum
+    public class InterviewType:Common
     {
-      
-        ikiherheleli = 1,
-        birmerheleli = 2
-    
+        
     }
 }

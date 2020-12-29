@@ -5,3 +5,10 @@ D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\Interv
 D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.exe
 D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.pdb
 D:\C#course\InterviewLevelsConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.csprojAssemblyReference.cache
+D:\C#course\New folder\InterviewLevelConsoleApp\InterviewLevelsConsoleApp\bin\Debug\InterviewLevelsConsoleApp.exe.config
+D:\C#course\New folder\InterviewLevelConsoleApp\InterviewLevelsConsoleApp\bin\Debug\InterviewLevelsConsoleApp.exe
+D:\C#course\New folder\InterviewLevelConsoleApp\InterviewLevelsConsoleApp\bin\Debug\InterviewLevelsConsoleApp.pdb
+D:\C#course\New folder\InterviewLevelConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.csprojAssemblyReference.cache
+D:\C#course\New folder\InterviewLevelConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#course\New folder\InterviewLevelConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.exe
+D:\C#course\New folder\InterviewLevelConsoleApp\InterviewLevelsConsoleApp\obj\Debug\InterviewLevelsConsoleApp.pdb
